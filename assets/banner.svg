@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <rect width="1200" height="260" fill="#0d1117"/>
+  <g font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#8b949e">
+    <text x="60" y="170">GetObject bucket &lt;*&gt; key &lt;*&gt;</text>
+    <text x="60" y="195">User &lt;*&gt; signed in from &lt;*&gt;</text>
+    <text x="60" y="220">Launch instance &lt;*&gt; in compartment &lt;*&gt;</text>
+  </g>
+  <text x="60" y="245" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#f85149">Authentication failed for &lt;*&gt; reason &lt;*&gt;  [NEW TEMPLATE]</text>
+  <text x="60" y="80" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="bold" fill="#e6edf3">oci-log-anomaly-insight</text>
+  <text x="60" y="118" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#8b949e">template mining + anomaly detection for OCI-style audit logs (synthetic, offline)</text>
+  <line x1="700" y1="150" x2="1140" y2="150" stroke="#30363d" stroke-width="2"/>
+  <rect x="900" y="120" width="40" height="30" fill="#1f6feb" opacity="0.7"/>
+  <rect x="1080" y="60" width="40" height="90" fill="#f85149" opacity="0.7"/>
+</svg>
